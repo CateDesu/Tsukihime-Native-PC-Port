@@ -1,6 +1,6 @@
 # Tsukihime PC port
 
-<p align="center"><img width="360" alt="Tsukihime logo" src="assets/branding/tsukihime-logo.png" /></p>
+<p align="center"><img width="520" alt="Tsukihime logo" src="assets/branding/tsukihime-logo.png" /></p>
 
 A native Windows and Linux port of *TSUKIHIME -A piece of blue glass moon-*. It plays your own extracted PS4 game files directly, without converting them.
 
